@@ -9,3 +9,5 @@ elif marks >= 60:
     print("average")
 else:
     print("very poor, try hard")
+
+    
